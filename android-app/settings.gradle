@@ -1,0 +1,2 @@
+rootProject.name = "AlKhanjar Manager"
+include ':app'
